@@ -33,7 +33,8 @@ Contoh: ./program \* 34 7 /home/somi/test.sh
 Program dengan argumen seperti contoh di atas akan menjalankan script test.sh setiap
 detik pada jam 07:34.
 ```
-    ## Soal 2 
+  
+  ## Soal 2 
 ```
 Shisoppu mantappu! itulah yang selalu dikatakan Kiwa setiap hari karena sekarang dia
 merasa sudah jago materi sisop. Karena merasa jago, suatu hari Kiwa iseng membuat
@@ -73,10 +74,10 @@ Hint:
 - Gunakan fitur picsum.photos untuk mendapatkan gambar dengan ukuran
 tertentu
 - Epoch Unix bisa didapatkan dari time()
-
 ```
-    ## Soal 3 
-```
+  
+  ## Soal 3 
+  ```
 Jaya adalah seorang programmer handal mahasiswa informatika. Suatu hari dia
 memperoleh tugas yang banyak dan berbeda tetapi harus dikerjakan secara bersamaan
 (multiprocessing).
