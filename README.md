@@ -17,7 +17,15 @@
     - [3D](#3d)
     ## Soal 3
     ### 3A
-Pertama membuat proses anak dengan mendeklarasikan child_id .Saat child_id kurang dari nol maka proses gagal dibuat.Jika child_id sama dengan nol maka akan membuat proses anak .Kemdian didalamnya akan membuat proses anak lagi untuk memproses pembuatan direktori indomie dan sedap.Saat child_id1 sama dengan nol makan akan membuat direktori indomie
+-Pertama membuat proses anak dengan mendeklarasikan child_id .Saat child_id kurang dari nol maka proses gagal dibuat.Jika child_id sama dengan nol maka akan membuat proses anak .Kemdian didalamnya akan membuat proses anak lagi untuk memproses pembuatan direktori indomie dan sedap.
+![awal](https://user-images.githubusercontent.com/57948206/76605117-7eee1300-6542-11ea-9225-6a163cd553b5.png)
 
+-Saat child_id1 sama dengan nol makan akan membuat direktori indomie
 ![child1](https://user-images.githubusercontent.com/57948206/76604705-c88a2e00-6541-11ea-94c5-3697b66e1c8d.png)
+
+-Kemudian akan masuk ke else dan menunggu selema 5 detik yang ditandai dengan sleep(5) untuk membuat direktori sedaap
+![chil1](https://user-images.githubusercontent.com/57948206/76605122-801f4000-6542-11ea-89b2-2b1ff7a0460b.png)
+ ### 3B
+-Kemudian melakukan unzip file jpg.zip degan fungsi execv
+![else](https://user-images.githubusercontent.com/57948206/76605126-81506d00-6542-11ea-8251-62ce5987a5d3.png)
 
