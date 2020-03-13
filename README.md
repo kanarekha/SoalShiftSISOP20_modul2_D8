@@ -15,7 +15,8 @@
     - [3B](#3b)
     - [3C](#3c)
     - [3D](#3d)
-    ## Soal 3
+    ## Soal 3 
+```
 Jaya adalah seorang programmer handal mahasiswa informatika. Suatu hari dia
 memperoleh tugas yang banyak dan berbeda tetapi harus dikerjakan secara bersamaan
 (multiprocessing).
@@ -41,8 +42,6 @@ Catatan :
 - Tidak boleh memakai function C mkdir() ataupun rename().
 - Gunakan exec dan fork
 - Direktori “.” dan “..” tidak termasuk 
-```
-halo
 ```
 
  ### 3A
