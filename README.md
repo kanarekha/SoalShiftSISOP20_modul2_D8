@@ -16,8 +16,8 @@
     - [3C](#3c)
     - [3D](#3d)
     ## Soal 3
-    ### 3A
--Pertama membuat proses anak dengan mendeklarasikan child_id .Saat child_id kurang dari nol maka proses gagal dibuat.Jika child_id sama dengan nol maka akan membuat proses anak .Kemdian didalamnya akan membuat proses anak lagi untuk memproses pembuatan direktori indomie dan sedap.
+ ### 3A
+-Pertama membuat proses anak dengan mendeklarasikan child_id dan child_id1 .Saat child_id kurang dari nol maka proses gagal dibuat.Jika child_id sama dengan nol maka akan membuat proses anak .Kemdian didalamnya akan membuat proses anak lagi untuk memproses pembuatan direktori indomie dan sedap.
 
 ![awal](https://user-images.githubusercontent.com/57948206/76605117-7eee1300-6542-11ea-9225-6a163cd553b5.png)
 
