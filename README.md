@@ -6,8 +6,6 @@
 - [SoalShiftSISOP20_modul2_D08](#soalshiftsisop20modul2d08)
   - [Soal 1](#soal-1)
     - [1A](#1a)
-    - [1B](#1b)
-    - [1C](#1c)
   - [Soal 2](#soal-2)
     - [2A](#2a)
     - [2B](#2b)
