@@ -16,7 +16,7 @@
     - [3C](#3c)
     - [3D](#3d)
     ## Soal 3
- ```Jaya adalah seorang programmer handal mahasiswa informatika. Suatu hari dia
+Jaya adalah seorang programmer handal mahasiswa informatika. Suatu hari dia
 memperoleh tugas yang banyak dan berbeda tetapi harus dikerjakan secara bersamaan
 (multiprocessing).
 a. Program buatan jaya harus bisa membuat dua direktori di
@@ -40,7 +40,7 @@ Catatan :
 - Tidak boleh memakai system().
 - Tidak boleh memakai function C mkdir() ataupun rename().
 - Gunakan exec dan fork
-- Direktori “.” dan “..” tidak termasuk ```
+- Direktori “.” dan “..” tidak termasuk 
 ```
 halo
 ```
