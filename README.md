@@ -194,7 +194,7 @@ Catatan :
 
 -"touch", "{}/coba1.txt" artinya membuat file baru dengan nama coba1.txt
 
--kemudian menunggu selema 3 detik yang ditandai dnegan "sleep(3)" untuk membuat file baru dengan nama coba2.txt didalam direkroti indomie.
+-kemudian menunggu selema 3 detik yang ditandai dengan "sleep(3)" untuk membuat file baru dengan nama coba2.txt didalam direkroti indomie.
 
 
 
