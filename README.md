@@ -14,6 +14,8 @@
 	- [Soal 3](#soal-3)
 		- [3A](#3a)
 		- [3B](#3b)
+		- [3C](#3c)
+		- [3D](#3d)
 ## Soal 1 
 ```
 Buatlah program C yang menyerupai crontab untuk menjalankan script bash dengan
@@ -160,7 +162,7 @@ Catatan :
 
 ![else](https://user-images.githubusercontent.com/57948206/76605126-81506d00-6542-11ea-8251-62ce5987a5d3.png)
 
-### 3c
+### 3C
 ![1](https://user-images.githubusercontent.com/57948206/77226505-839e7100-6bab-11ea-9024-1f6e52cd5e64.png)
 
 -Untuk menjalankan proses tersebut harus menunggu status lebih dari nol , kemudian membuat proses anak lagi menggunakan fork
@@ -181,7 +183,7 @@ Catatan :
 
 -Penjelasan dari gambar diatas sama seperti sebelumnya.Yang membedakan adalah "-type", "d" yaitu mencari isi dari direktori jpg dengan tipe direktori
 
-### 3d
+### 3D
 ![5](https://user-images.githubusercontent.com/57948206/77226957-bb5ae800-6bae-11ea-8356-8bdd4505fb09.png)
 
 -Untuk menjalankan proses selanjutnya harus menunggu saat status lebih dari nol , kemudian membuat proses anak.
