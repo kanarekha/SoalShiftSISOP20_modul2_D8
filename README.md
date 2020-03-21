@@ -103,12 +103,12 @@ tertentu
 * Lalu pada line 112-120 tidak beda jauh dengan sebelumnya hanya beda di zip saja
 * Lalu di pada line 122-131 sama saja juga hanya beda di rm nya (revisi karena salah menaruh child_id nya)
 
-### Soal d(line 56-72)
+### Soal d(line 56-72) (Revisi karena masih gagal)
 * Pertama pada line 56 buat file killer.c
 * Lalu dalamnya berisi kill current pid terus diremove file killernya
 * Lalu sisanya ga beda jauh dengan soal sebelumnya hanya di gcc nya untuk mengcompile file killer
 * Setelah itu remove killer.c nya
-### Soal e(line 18-25, 85)
+### Soal e(line 18-25, 85) (Revisi karena belum mengerjakan)
 * Pertama saya ingin membedakan mode a dan mode b
 * Lalu jika mode a maka mode = 0, mode b maka mode= 1. Selain itu keluar "Argumen Salah"
 * Lalu pada line 85, saya mengubah kalau proses wget dan seterusnya berbeda dengan membuat direktori
