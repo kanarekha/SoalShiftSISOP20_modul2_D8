@@ -160,3 +160,32 @@ Catatan :
 
 ![else](https://user-images.githubusercontent.com/57948206/76605126-81506d00-6542-11ea-8251-62ce5987a5d3.png)
 
+### 3c
+![1](https://user-images.githubusercontent.com/57948206/77226505-839e7100-6bab-11ea-9024-1f6e52cd5e64.png)
+
+-Untuk menjalankan proses tersebut harus menunggu status lebih dari nol , kemudian membuat proses anak lagi menggunakan fork
+-Saat child_id sama dengan nol makan proses pemindahan file ke direktori sedap akan berjalan
+-"find", "/home/rekha/modul2/jpg/"  artinya mencari direktori jpg
+-"-mindepth", "1", "-maxdepth", "1" menandakan bahwa proses masuk ke dalam direktori tujuan sejumlah satu kali saja dan tidak akan mencari ke subdirektori didalam jpg
+-"-type", "f" artinya mencari isi dari direktori hanya bertipe file
+-mv artinya memindahkan isi file yg di cari
+-"-t", "/home/rekha/modul2/sedaap" artinya merunjuk ke file mana yang akan dipindah dan akan dipindah ke direktori sedaap
+
+![2](https://user-images.githubusercontent.com/57948206/77226508-8600cb00-6bab-11ea-96b9-2236e3fa834d.png)
+
+-Penjelasan dari gambar diatas sama seperti sebelumnya.Yang membedakan adalah "-type", "d" yaitu mencari isi dari direktori jpg dengan tipe direktori
+
+### 3d
+![5](https://user-images.githubusercontent.com/57948206/77226957-bb5ae800-6bae-11ea-8356-8bdd4505fb09.png)
+
+-Untuk menjalankan proses selanjutnya harus menunggu saat status lebih dari nol , kemudian membuat proses anak.
+-find", "/home/rekha/modul2/indomie/" mencari direktori indomie
+-"-mindepth", "1", "-maxdepth", "1" menandakan bahwa proses masuk ke dalam direktori tujuan sejumlah satu kali saja dan tidak akan mencari ke subdirektori didalam indomie
+-"-type", "d" artinya mencari yang bertipe direktori
+-"touch", "{}/coba1.txt" artinya membuat file baru dengan nama coba1.txt
+-kemudian menunggu selema 3 detik yang ditandai dnegan "sleep(3)" untuk membuat file baru dengan nama coba2.txt didalam direkroti indomie.
+
+
+
+
+
