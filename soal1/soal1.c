@@ -73,6 +73,10 @@ int check_argument(int argc, char *argv[]) {
 int main(int argc, char *argv[]) {
   
   if (check_argument(argc, argv) == -1) return 0;
+  if(access(argv[4], F_OK) == -1){
+    printf("File tidak ada\n");
+    return 0;  
+  }
 
   pid_t pid, sid;
 
